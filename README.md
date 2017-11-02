@@ -3,5 +3,5 @@ The purpose of this project is to:
 - practice collaboration skills 
 - practice linking files  
 
-Click [here](../Rushing.) to begin  
+Click [here](Rushing.md) to begin  
 Click [here] restart
