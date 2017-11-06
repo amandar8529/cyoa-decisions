@@ -1,0 +1,1 @@
+The MTA worker gets your phone and returns it to you, but you caused a train delay and were late to school. You get to school and get detention because you had too many tardies. Your day started off bad but you get through the day and its time to go [home]()
