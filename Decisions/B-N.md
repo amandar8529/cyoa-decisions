@@ -1,0 +1,1 @@
+You decide to leave the $20 bill and keep on going. You get to school on time and have some time to spare to study for that test. You get through the day and its time to go [home](Rushing.md)
