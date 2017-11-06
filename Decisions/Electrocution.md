@@ -1,0 +1,2 @@
+You decide to go down and get it, you jump down and see your phone you grab it, and all you see is a big flash. Next thing you know you're in a football game, the Quarterback says "hike". Do you run? 
+[Yes](Run.md) or [No](Dont_Run.md)
