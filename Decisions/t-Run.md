@@ -1,2 +1,2 @@
-You start running.., You juke your defender you look back and the ball is coming right for you. You jump and.... YOU CATCH IT, Your adrenaline is rushing, you see the N-Zone and you keep running and running. The closer you get to it everything becomes white... you make the final [leap](ER2.md) for the touchdown.
+You start running.., You juke your defender you look back and the ball is coming right for you. You jump and.... YOU CATCH IT, Your adrenaline is rushing, you see the EndZone and you keep running and running. The closer you get to it everything becomes white... you make the final [leap](ER2.md) for the touchdown.
 ![Alt git add](Leap.png)
