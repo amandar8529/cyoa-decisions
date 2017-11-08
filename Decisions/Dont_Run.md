@@ -1,1 +1,2 @@
 You are confused but you see the QB turn around and throw the ball at you. You catch it but when you look left you see the other teams player running at you. Right before he tackles you, you see that [bright white flash](ER.md) again.
+![Alt git add](Flash.png)
